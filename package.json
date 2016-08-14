@@ -1,0 +1,17 @@
+{
+  "name": "upload-yo-imgur",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "co": "^4.6.0",
+    "imgur": "^0.1.7",
+    "request": "^2.74.0"
+  }
+}
